@@ -18,7 +18,7 @@ public class MsgTree {
 	public MsgTree left, right;
 	
 	/**
-	 * Iteratively creates a binary tree with left branches representing an encoded 0 and right representing an encoded 1
+	 * Iteratively creates a binary tree with left branches representing an encoded 0, and right branches representing an encoded 1
 	 * from a preOrder String representation of the tree
 	 * 
 	 * @param encodingString
